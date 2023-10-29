@@ -1,0 +1,15 @@
+O projeto 02 em desenvolvimento vai iniciar com a planilha em excel que foi gerada do script consolidador do projeto 1.
+O relatório_consolidado deve ser salvo dentro da planilha projeto 02 e formatar minimanente para evidenciar o tipo de dados em análise na planilha do excel.
+Esta planiha pode ser publicada aos interessados pelo conteúdo.
+Escolha o aplicativo que deseja programar, tal como: jupyter notebook, python, vccode, google colab.
+Neste caso vamos utilizar o jupyter notebook
+O navegador padrão vai ser aberto, um servidor entrará em operação e vinculado a pasta original de onde foi aberto o jupyer no terminal.
+Abrir no botão NEW um novo ipykernel e F11 para a tela ficar cheia.
+Alterar a linha de programação codigo (verde) para texto (azul) ctrl+m
+Importar a biblioteca pandas as pd
+Criar um data frame(df) no padrão pep8
+df = pd. (acionar o tab para habilitar a lista de opções da biblioteca)
+Escolha o arquivo a ser analisado. df.head() e as 5 primeiras linhas serão mostradas.
+Verificar as 5 ultimas linhas: df.tail()
+Iniciar a exploração do data set.
+
